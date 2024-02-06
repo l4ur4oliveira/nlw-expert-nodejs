@@ -2,5 +2,6 @@ POST http://localhost:3333/polls
 content-type: application/json
 
 {
-    "title": "Testando enquente"
+    "title": "Biscoito ou bolacha?",
+    "options": ["Biscoito", "Bolacha"]
 }
