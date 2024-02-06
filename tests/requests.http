@@ -5,3 +5,7 @@ content-type: application/json
     "title": "Biscoito ou bolacha?",
     "options": ["Biscoito", "Bolacha"]
 }
+
+###
+
+GET http://localhost:3333/polls/38038ecc-4ec8-45d9-bfd6-9366162c76ee
