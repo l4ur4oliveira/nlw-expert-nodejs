@@ -8,13 +8,13 @@ content-type: application/json
 
 ###
 
-GET http://localhost:3333/polls/38038ecc-4ec8-45d9-bfd6-9366162c76ee
+GET http://localhost:3333/polls/d956e37f-2c01-4a38-aa2a-eb69fb810775
 
 ###
 
-POST http://localhost:3333/polls/38038ecc-4ec8-45d9-bfd6-9366162c76ee/votes
+POST http://localhost:3333/polls/d956e37f-2c01-4a38-aa2a-eb69fb810775/votes
 content-type: application/json
 
 {
-    "pollOptionId": "bfa9980f-b046-42a9-865d-91bfe4d86899"
+    "pollOptionId": "fd4d7b94-0c25-4681-9b08-cea896aa5097"
 }
